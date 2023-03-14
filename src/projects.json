@@ -1,0 +1,44 @@
+[
+    {
+      "title": "Weather Dashboard",
+      "github":
+        "https://github.com/joy-hui/Weather-Dashboard",
+      "deployed": "https://joy-hui.github.io/Weather-Dashboard/",
+      "description": "It's a code that build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS"
+    },
+    {
+        "title": "Daily Planner",
+        "github":
+          "https://github.com/joy-hui/Daily-Planner",
+        "deployed": "https://joy-hui.github.io/Daily-Planner/",
+        "description": "It's a code create a simple calendar application that allows a user to save events for each hour of the day."
+      },
+      {
+        "title": "City Crime Data",
+        "github":
+          "https://github.com/joy-hui/City-Crime-Data",
+        "deployed": "https://joy-hui.github.io/City-Crime-Data/",
+        "description": "A simple dashboard displaying local crime statistics for a searched location in England."
+      },
+      {
+        "title": "Quiz",
+        "github":
+          "https://github.com/joy-hui/Quiz",
+        "deployed": "https://joy-hui.github.io/Quiz/",
+        "description": "It's a code that Create a code quiz."
+      },
+      {
+        "title": "Password Generator",
+        "github":
+          "https://github.com/joy-hui/Password-Generator",
+        "deployed": "https://joy-hui.github.io/Password-Generator/",
+        "description": "It's a code that an employee can use to generate a random password. it has a buton when an employee click it, a password will be generated."
+      },
+      {
+        "title": "Bootstrap Portfolio",
+        "github":
+          "https://github.com/joy-hui/Bootstrap-Portfolio",
+        "deployed": "https://joy-hui.github.io/Bootstrap-Portfolio/",
+        "description": "It's a website about my Portfolio."
+      }
+  ]
