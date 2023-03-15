@@ -33,9 +33,9 @@
 ## Usage
 * The application will be invoked by using the following command: npm start.
 * There are some screenshots
-![image of screenshot1](1.png)
-![image of screenshot2](2.png)
-![image of screenshot3](3.png)
+![image of screenshot1](./src/images/1.png)
+![image of screenshot2](./src/images/2.png)
+![image of screenshot3](./src/images/3.png)
 
 
 ## License
